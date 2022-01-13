@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+
+![header](https://capsule-render.vercel.app/api?text=Yonje_Olivia_Choi&animation=twinkling&type=cylinder&color=gradient)
 <!--
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlign=70)
 **oliviachchoi/oliviachchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
