@@ -4,6 +4,11 @@
 ![header](https://capsule-render.vercel.app/api?text=Yonje_Olivia_Choi&animation=twinkling&type=cylinder&color=gradient)
 <!--
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlign=70)
+
+# 🌱 I’m currently learning ...
+# Machine Learning / Deep Learning
+# 🤔 I'm currently interested in ...
+# NLP / Recommender System
 **oliviachchoi/oliviachchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
