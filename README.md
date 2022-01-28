@@ -1,4 +1,4 @@
-### Hi there, I am Yonje Olivia Choi. Welcome to my Github Page !
+### Hi there, I am Yonje Olivia Choi. Welcome to my Github Page 👍 🦖
 
 
 ![header](https://capsule-render.vercel.app/api?text=Yonje_Olivia_Choi&animation=twinkling&type=cylinder&color=gradient)
